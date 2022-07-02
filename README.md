@@ -21,4 +21,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
-### GitHub Stats
+
+
+<!-- Github Stats -->
