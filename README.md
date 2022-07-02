@@ -1,10 +1,12 @@
-### Background
+<!-- Background -->
 <a href="#" target="_blank">
   <img src="svg/haitndev.svg" width="1200" alt="HaitnDeV" />
 </a>
-### Technologies and Tools
 
- <h1 align='center'></h1>
+
+<!-- Technologies and Tools -->
+ <h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
