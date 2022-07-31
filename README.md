@@ -5,7 +5,7 @@
 
 
 <!-- Technologies and Tools -->
- <h1 align="center">🛠 Technologies and Tools 🛠</h1>
+<h1 align="center">🛠 Technologies and Tools 🛠</h1>
 <br><br>
 <h2>👉 Programming Languages</h2>
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=3498db" alt="C logo" title="C" height="25" /></span>
@@ -39,5 +39,17 @@
 <span><img src="https://img.shields.io/badge/Filebase-282C34?logo=filebase&logoColor=bdc3c7" alt="Filebase logo" title="Filebase" height="25" /></span>
 &nbsp;
 
-
 <!-- Github Stats -->
+<h1 align="center"> 🎓 Education </h1>
+<span>✨ FPT University HCM 9/2019 - Present Software Engineering</span><br>
+<span>GPA: 7.74/10</span>
+
+<h1 align="center"> 🏆 Achievements </h1>
+<span>📜 30% SCHOLARSHIP HUNT FOR FPT UNIVERSITY</span><br>
+<span>📜 Honorable Student Of The Semester Students SPRING 2022 - GPA 8.0</span><br>
+<span>📜 Honorable Student Of The Semester Students FALL 2021 - GPA 8.2</span><br>
+
+<h1 align="center"> Languages </h1>
+<span>✨ English : Basic</span><br>
+<span>✨ Japanese: Basic</span><br>
+
