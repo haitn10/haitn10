@@ -7,6 +7,7 @@
 <!-- Technologies and Tools -->
  <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
+<h2>👉 Programming languages</h2>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
