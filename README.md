@@ -15,7 +15,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
-
+<br>
 <h2>👉 Font-end Development</h2>
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /></span>
 &nbsp;
@@ -27,7 +27,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
-
+<br>
 <h2>👉 Graphic Design</h2>
 
 
