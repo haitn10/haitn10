@@ -7,14 +7,14 @@
 <!-- Technologies and Tools -->
  <h1 align="center">🛠 Technologies and Tools 🛠</h1>
 <br><br>
-<h2>👉 Programming languages</h2>
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=F7DF1E" alt="C logo" title="C" height="25" /></span>
+<h2>👉 Programming Languages</h2>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=3498db" alt="C logo" title="C" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
-<br><br><br>
+<br><br>
 <h2>👉 Font-end Development</h2>
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /></span>
 &nbsp;
@@ -26,9 +26,18 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
-<br><br><br>
+<br><br>
 <h2>👉 Graphic Design</h2>
-
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=1abc9c" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
+<br><br>
+<h2>👉 Databases and Cloud Hosting</h2>
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=2ecc71" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/SQL Server-282C34?logo=sqlserver&logoColor=e67e22" alt="SQL Server logo" title="SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Filebase-282C34?logo=filebase&logoColor=bdc3c7" alt="Filebase logo" title="Filebase" height="25" /></span>
+&nbsp;
 
 
 <!-- Github Stats -->
