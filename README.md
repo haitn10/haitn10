@@ -45,9 +45,9 @@
 <span>GPA: 7.74/10</span>
 
 <h1 align="center"> 🏆 Achievements </h1>
-<span>📜 30% SCHOLARSHIP HUNT FOR FPT UNIVERSITY</span><br>
 <span>📜 Honorable Student Of The Semester Students SPRING 2022 - GPA 8.0</span><br>
 <span>📜 Honorable Student Of The Semester Students FALL 2021 - GPA 8.2</span><br>
+<span>📜 30% SCHOLARSHIP HUNT FOR FPT UNIVERSITY</span><br>
 
 <h1 align="center"> Languages </h1>
 <span>✨ English : Basic</span><br>
